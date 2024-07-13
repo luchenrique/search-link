@@ -1,0 +1,15 @@
+# Search Link
+Algoritmo que faz a busca de hiperlinks dentro de de um aquivo markdown.
+
+# Pré-requisitos
+- Node.js
+  - Versão: 18.20.2
+- NPM (Node Package Manager) 
+
+# Bibliotecas
+- Chalk:
+  - Versão: 5.0.1
+  - Função: Utilizada para colorir as saídas do terminal, faciliando a visualização.
+- FS:
+  - Versão: 18.20.2 
+  - Biblioteca do próprio Node.js utilizada para fazer a leitura de arquivos.
