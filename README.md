@@ -28,7 +28,7 @@ Algoritmo que faz a busca de hiperlinks dentro de um aquivo markdown.
    npm install
    ```
 
-## Excutando
+## Executando
 
 1. **Listar links:**
      
