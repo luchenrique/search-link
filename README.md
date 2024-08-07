@@ -1,5 +1,5 @@
 # Search Link
-Algoritmo que faz a busca de hiperlinks dentro de de um aquivo markdown.
+Algoritmo que faz a busca de hiperlinks dentro de um aquivo markdown.
 
 ## Instalações necessárias
 - Node.js
@@ -14,7 +14,7 @@ Algoritmo que faz a busca de hiperlinks dentro de de um aquivo markdown.
   - Versão: 18.20.2 
   - Biblioteca do próprio Node.js utilizada para fazer a leitura de arquivos.
 
- ## Iniciando o projeto
+## Iniciando o projeto
 
 1. **Faça um clone do repositório:**
 
@@ -27,3 +27,17 @@ Algoritmo que faz a busca de hiperlinks dentro de de um aquivo markdown.
    ```bash
    npm install
    ```
+
+## Excutando
+
+1. **Listar links:**
+     
+    ```bash
+    npm run cli
+    ```
+
+2. **Validando links:**
+
+    ```bash
+    npm run cli:valida
+    ```
